@@ -81,15 +81,9 @@ You’ll get a live link like
 arduino
 Copy code
 https://pokemon-explorer-yourname.vercel.app
-📸 Preview
-(You can add screenshots here later!)
 
-💡 Future Enhancements
-🧠 Add Pokémon comparisons
 
-🌐 Add infinite scroll or pagination
 
-🎵 Add sound or animations when Pokémon appear
 
 🧑‍💻 Author
 Your Name

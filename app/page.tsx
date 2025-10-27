@@ -76,10 +76,9 @@ export default function Home() {
             -2px  2px 0 #2563EB,
             2px  2px 0 #2563EB`,
             fontWeight: 800,
-            fontSize: "3rem",
             lineHeight: 1.1,
             margin: 10,
-          }}
+          }} className="text-[3rem] max-[640px]:text-[2rem] text-center"
         >
           Pokémon Explorer
         </h1>
@@ -108,7 +107,7 @@ export default function Home() {
 
       {/* Pokémon Grid */}
       <div
-      className="grid grid-cols-4 sm:grid-cols-4"
+      className="grid grid-cols-4 max-[640px]:grid-cols-2"
       style={{ columnGap: "1rem", rowGap: "3rem" }}>
 
         {filtered.map((pokemon) => {

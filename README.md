@@ -74,7 +74,7 @@ Push your project to GitHub
 
 Visit vercel.com → “Add New Project”
 
-Import your repo → Deploy 🚀
+Import your repo → Deploy 
 
 You’ll get a live link like
 
@@ -85,9 +85,9 @@ https://pokemon-explorer-yourname.vercel.app
 
 
 
-🧑‍💻 Author
+ Author
 Your Name
-💼 GitHub: meghanaarvapally
+GitHub: meghanaarvapally
 
-🏁 License
+License
 This project is for educational purposes and uses data provided by PokéAPI.
